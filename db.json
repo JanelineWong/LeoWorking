@@ -1,0 +1,50 @@
+{
+  "Timestamp":
+  {
+    "time": "right now",
+    "date": "today's date"
+  },
+  
+  "Temperature": 
+  [
+    {
+      "units": "Celsius",
+      "number": 34
+    },
+    {
+      "units": "Celsius",
+      "number": 34
+    }
+    
+  ],
+  "Altitude": 
+  [
+    {
+      "units": "km",
+      "number": 12000
+    },
+    {
+      "units": "km",
+      "number": 11500
+    },
+    {
+      "units": "km",
+      "number": 11000
+    }
+  ],
+    "Speed": 
+  [
+    {
+      "units": "m/s",
+      "number": 193
+    },
+    {
+      "units": "m/s",
+      "number": 208
+    },
+    {
+      "units": "m/s",
+      "number": 416
+    }
+  ]
+}
